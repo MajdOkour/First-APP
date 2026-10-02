@@ -4,6 +4,10 @@ A full-stack web application for tracking personal expenses. Users can add, edit
 
 ---
 
+GitHup Link:
+
+🔗 **Repository:** https://github.com/MajdOkour/First-APP
+
 ## Technologies Used
 
 ### Frontend
@@ -135,3 +139,5 @@ Course: Full Stack Web Development
 Academy: Dalil Training Academy
 
 Date: 2026
+
+
